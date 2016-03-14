@@ -14,9 +14,9 @@ do the following commands after downloading the repo
 $ npm install
 $ npm install -g grunt-cli
 
-Now open a new cmd window & update & start webdriver-manger update/start 
+Now open a new cmd window to update & start webdriver-manger update/start 
 
-use the below commnads in the current dir-
+use the below commands in the current dir-
 // this will update the webdriver manager
 node ./node_modules/protractor/bin/webdriver-manager update
 
